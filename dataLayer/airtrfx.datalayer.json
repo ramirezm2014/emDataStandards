@@ -25,7 +25,7 @@
         "countryIsoCode": "US",
         "siteEdition": "en-US",
         "webDesign": "RESPONSIVE",
-        "dateCreated": "2017-01-12",
+        "dateCreated": "YYYY-MM-DD",
         "accessibility": true
     },
     "originCity": {
